@@ -15,3 +15,6 @@ https://s-m-alif-ahmmed.github.io/BASIS-SEIP-Web-Development.github.io/Class_06
 
 Class_07
 https://s-m-alif-ahmmed.github.io/BASIS-SEIP-Web-Development.github.io/Class_07 
+
+Class_08
+https://s-m-alif-ahmmed.github.io/BASIS-SEIP-Web-Development.github.io/Class_08
